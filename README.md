@@ -1,1 +1,1 @@
-#Weather App made using JS and CSS
+Weather App made using JS and CSS
